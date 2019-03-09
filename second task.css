@@ -1,0 +1,32 @@
+/* my css starts from here */
+
+body {
+Border: 25px;
+border-color: #bdc3c7;
+border-style: solid;
+width: 60%;
+padding: 2px 3% 2px 4%;
+Margin: auto;
+Margin-top: 15px;
+margin-bottom: 15px;
+font-family: 'Open Sans', sans-serif;
+font-size: 15px;
+}
+
+h5 {
+    letter-spacing: 2px;
+    color: #3498db;
+}
+
+h1 {
+   color:#2c3e50;
+}
+
+.border {
+    border-left: 6px;
+    border-left-style: solid;
+    border-left-color: #bdc3c7;
+    padding: 9px;
+}
+
+
